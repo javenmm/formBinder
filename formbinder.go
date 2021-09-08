@@ -1,4 +1,4 @@
-package formbinder
+package formBinder
 
 import (
 	"github.com/gorilla/schema"
